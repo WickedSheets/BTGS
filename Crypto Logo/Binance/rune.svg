@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #1c2731;
+        stroke: url(#linear-gradient);
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st1, .st2 {
+        fill-rule: evenodd;
+      }
+
+      .st3 {
+        display: none;
+        fill: #c2b59b;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="4.1" y1="501.1" x2="1.6" y2="501.1" gradientTransform="translate(-49 50361) scale(100 -100)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3f9"/>
+      <stop offset="1" stop-color="#0cf"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="17.9" y1="502.8" x2="2.1" y2="502.3" gradientTransform="translate(-10 27882) scale(28.4 -55)" xlink:href="#linear-gradient"/>
+  </defs>
+  <circle class="st3" cx="250" cy="250" r="248.5"/>
+  <g id="ASGARDEX">
+    <g id="Artboard">
+      <g id="LIQUIDITY-CIRCLE">
+        <g id="RUNE-TOKEN-ICON">
+          <g id="Oval">
+            <circle id="path-2" cx="250" cy="250" r="247.5"/>
+            <circle id="path-21" data-name="path-2" class="st0" cx="250" cy="250" r="247.5"/>
+          </g>
+          <g id="_x16B1_">
+            <polygon id="path-5" class="st2" points="229.8 378.7 195.5 378.7 195.5 106.4 229.8 106.4 317.5 156 317.5 193.4 286.2 247 336.1 378.7 299.6 378.7 250.1 245.2 288.5 178.5 229.8 145.4 229.8 378.7"/>
+            <polygon id="path-51" data-name="path-5" class="st1" points="229.8 378.7 195.5 378.7 195.5 106.4 229.8 106.4 317.5 156 317.5 193.4 286.2 247 336.1 378.7 299.6 378.7 250.1 245.2 288.5 178.5 229.8 145.4 229.8 378.7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
