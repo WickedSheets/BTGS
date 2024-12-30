@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #61d1e4;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle id="BG" class="st0" cx="250" cy="250" r="248.5"/>
+  <g>
+    <rect class="st1" x="188.3" y="127.7" width="201.5" height="64.7"/>
+    <rect class="st1" x="188.3" y="217.7" width="201.5" height="64.7"/>
+    <rect class="st1" x="110.2" y="217.7" width="64.7" height="64.7"/>
+    <rect class="st1" x="188.3" y="307.6" width="64.7" height="64.7"/>
+  </g>
+</svg>
